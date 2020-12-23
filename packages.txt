@@ -8,6 +8,7 @@ base
 binutils
 bison
 chromium
+cronie
 dash
 discord
 dmenu
