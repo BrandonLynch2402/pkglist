@@ -1,3 +1,5 @@
 bibata-cursor-theme
 libxft-bgra
+packettracer
+rpi-imager
 yay-git

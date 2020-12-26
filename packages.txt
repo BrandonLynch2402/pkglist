@@ -1,5 +1,6 @@
 alsa-firmware
 alsa-utils
+anki
 arc-gtk-theme
 arc-icon-theme
 autoconf
@@ -10,12 +11,16 @@ bison
 chromium
 cronie
 dash
+dialog
 discord
 dmenu
+docker
 dosfstools
+dunst
 efibootmgr
 exa
 fakeroot
+filezilla
 firefox
 flex
 gcc
@@ -27,6 +32,7 @@ libreoffice-fresh
 linux
 linux-firmware
 linux-lts
+linux-lts-headers
 lxappearance
 m4
 make
@@ -41,6 +47,7 @@ nitrogen
 noto-fonts
 nvidia-lts
 nvidia-settings
+openvpn
 os-prober
 pamixer
 pandoc
@@ -50,8 +57,12 @@ pcmanfm
 perl-rename
 picom
 pkgconf
+polkit-gnome
 pulseaudio
 pulseaudio-alsa
+putty
+python-eyed3
+python-pip
 qbittorrent
 reflector
 rsync
@@ -72,6 +83,8 @@ texlive-pstricks
 texlive-publishers
 texlive-science
 thunderbird
+tor
+torbrowser-launcher
 ttf-cascadia-code
 ttf-joypixels
 unclutter
