@@ -6,10 +6,12 @@ arc-icon-theme
 autoconf
 automake
 base
+bind
 binutils
 bison
 chromium
 cronie
+cups
 dash
 dialog
 discord
@@ -27,7 +29,9 @@ gcc
 git
 grub
 gvim
+hplip
 htop
+i3lock
 libreoffice-fresh
 linux
 linux-firmware
@@ -49,6 +53,7 @@ nvidia-lts
 nvidia-settings
 openvpn
 os-prober
+pacman-contrib
 pamixer
 pandoc
 patch
@@ -67,6 +72,7 @@ qbittorrent
 reflector
 rsync
 shellcheck
+signal-desktop
 sudo
 sxhkd
 sxiv
@@ -87,7 +93,9 @@ tor
 torbrowser-launcher
 ttf-cascadia-code
 ttf-joypixels
+ufw
 unclutter
+unzip
 virtualbox
 which
 wireshark-qt
@@ -140,6 +148,7 @@ xorg-xwud
 youtube-dl
 zathura
 zathura-pdf-mupdf
+zip
 zsh
 zsh-autosuggestions
 zsh-syntax-highlighting

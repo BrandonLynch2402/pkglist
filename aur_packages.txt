@@ -1,4 +1,6 @@
 bibata-cursor-theme
+bitwarden-bin
+eve-ng-integration
 libxft-bgra
 packettracer
 rpi-imager
