@@ -27,6 +27,7 @@ firefox
 flex
 gcc
 git
+gnu-netcat
 grub
 gvim
 hplip
@@ -54,6 +55,7 @@ nvidia-settings
 openvpn
 os-prober
 pacman-contrib
+pam-u2f
 pamixer
 pandoc
 patch
@@ -92,12 +94,15 @@ thunderbird
 tor
 torbrowser-launcher
 ttf-cascadia-code
+ttf-dejavu
 ttf-joypixels
 ufw
 unclutter
 unzip
+usbutils
 virtualbox
 which
+whois
 wireshark-qt
 xclip
 xf86-video-vesa
@@ -146,6 +151,8 @@ xorg-xwd
 xorg-xwininfo
 xorg-xwud
 youtube-dl
+yubikey-manager-qt
+yubioath-desktop
 zathura
 zathura-pdf-mupdf
 zip
