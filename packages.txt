@@ -3,6 +3,7 @@ alsa-utils
 anki
 arc-gtk-theme
 arc-icon-theme
+arp-scan
 autoconf
 automake
 base
@@ -28,11 +29,13 @@ flex
 gcc
 git
 gnu-netcat
+go
 grub
 gvim
 hplip
 htop
 i3lock
+ipcalc
 libreoffice-fresh
 linux
 linux-firmware
@@ -49,9 +52,11 @@ ncmpcpp
 neovim
 networkmanager
 nitrogen
+nmap
 noto-fonts
 nvidia-lts
 nvidia-settings
+opendoas
 openvpn
 os-prober
 pacman-contrib
@@ -101,6 +106,7 @@ unclutter
 unzip
 usbutils
 virtualbox
+wget
 which
 whois
 wireshark-qt

@@ -1,7 +1,10 @@
 bibata-cursor-theme
 bitwarden-bin
 brave-bin
+duf
 eve-ng-integration
+librewolf-bin
 libxft-bgra
 packettracer
+phoneinfoga-latest-bin
 yay-git
