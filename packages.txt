@@ -10,6 +10,7 @@ base
 bind
 binutils
 bison
+bpython
 chromium
 cronie
 cups
@@ -98,6 +99,7 @@ texlive-science
 thunderbird
 tor
 torbrowser-launcher
+traceroute
 ttf-cascadia-code
 ttf-dejavu
 ttf-joypixels

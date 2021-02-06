@@ -7,4 +7,5 @@ librewolf-bin
 libxft-bgra
 packettracer
 phoneinfoga-latest-bin
+powershell
 yay-git
