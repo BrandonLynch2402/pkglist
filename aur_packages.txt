@@ -3,6 +3,7 @@ bitwarden-bin
 brave-bin
 duf
 eve-ng-integration
+hollywood
 librewolf-bin
 libxft-bgra
 packettracer
