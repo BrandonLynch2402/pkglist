@@ -1,12 +1,17 @@
 bibata-cursor-theme
 bitwarden-bin
 brave-bin
+burpsuite
 duf
 eve-ng-integration
+gobuster
+google-chrome
 hollywood
 librewolf-bin
 libxft-bgra
 packettracer
 phoneinfoga-latest-bin
 powershell
+wfuzz
+whatweb
 yay-git
