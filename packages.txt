@@ -7,6 +7,7 @@ arp-scan
 autoconf
 automake
 base
+bat
 bind
 binutils
 bison
@@ -20,10 +21,10 @@ discord
 dmenu
 docker
 dosfstools
+dsniff
 dunst
 efibootmgr
 exa
-exploitdb
 fakeroot
 filezilla
 firefox
@@ -39,7 +40,6 @@ hashcat
 hplip
 htop
 hugo
-hydra
 i3lock
 ipcalc
 jq
@@ -51,7 +51,6 @@ linux-lts-headers
 lxappearance
 m4
 make
-metasploit
 mlocate
 mpc
 mpd
@@ -60,7 +59,6 @@ mtools
 ncmpcpp
 neovim
 networkmanager
-nikto
 nitrogen
 nmap
 nodejs
@@ -88,7 +86,6 @@ putty
 python-eyed3
 python-pip
 qbittorrent
-rdesktop
 reflector
 rsync
 shellcheck
