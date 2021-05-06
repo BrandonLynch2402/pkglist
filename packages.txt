@@ -30,6 +30,7 @@ filezilla
 firefox
 flex
 gcc
+gdb
 gimp
 git
 gnu-netcat
@@ -56,6 +57,7 @@ mpc
 mpd
 mpv
 mtools
+mypy
 nasm
 ncmpcpp
 neovim
@@ -87,9 +89,12 @@ pulseaudio-alsa
 putty
 python-eyed3
 python-pip
+python-pyfiglet
+python-pyxdg
 qbittorrent
 reflector
 rsync
+rustup
 shellcheck
 signal-desktop
 socat
@@ -110,6 +115,7 @@ texlive-pstricks
 texlive-publishers
 texlive-science
 thunderbird
+time
 tor
 torbrowser-launcher
 traceroute
