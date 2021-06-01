@@ -3,9 +3,6 @@ bitwarden-bin
 brave-bin
 duf
 eve-ng-integration
-google-chrome
-hollywood
-librewolf-bin
 libxft-bgra
 packettracer
 powershell
