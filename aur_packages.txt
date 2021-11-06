@@ -1,9 +1,11 @@
+anki
 bibata-cursor-theme
 bitwarden-bin
 brave-bin
-duf
+cpufetch
 eve-ng-integration
 libxft-bgra
-packettracer
-powershell
-yay-git
+makemkv
+paru
+timeshift
+update-grub

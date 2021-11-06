@@ -20,5 +20,5 @@ Install packages after reinstalling OS
 
 ### Install packages from AUR
 
-`yay -S --needed - < aur-packages.txt`
+`yay -S --needed - < aur_packages.txt`
 
