@@ -1,11 +1,8 @@
 anki
 bibata-cursor-theme
-bitwarden-bin
 brave-bin
-cpufetch
 eve-ng-integration
 libxft-bgra
 makemkv
 paru
 timeshift
-update-grub

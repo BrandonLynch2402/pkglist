@@ -7,8 +7,6 @@ ansible
 arc-gtk-theme
 arc-icon-theme
 arch-audit
-arp-scan
-atop
 audacity
 autoconf
 automake
@@ -17,10 +15,10 @@ bat
 bind
 binutils
 bison
+bitwarden
 bpython
 chromium
 cmatrix
-code
 cronie
 cups
 dash
@@ -37,7 +35,6 @@ dunst
 efibootmgr
 exa
 fakeroot
-filezilla
 firefox
 flex
 gcc
@@ -49,7 +46,6 @@ go
 grub
 grub-customizer
 gvim
-hashcat
 hplip
 htop
 hugo
@@ -76,7 +72,6 @@ mpv
 mtools
 mtr
 nasm
-ncdu
 ncmpcpp
 neofetch
 neovim
@@ -90,7 +85,6 @@ nvidia
 nvidia-lts
 nvidia-settings
 opencl-nvidia
-opendoas
 openvpn
 os-prober
 pacman-contrib
@@ -100,7 +94,6 @@ pandoc
 patch
 pavucontrol
 pcmanfm
-pdfgrep
 perl-image-exiftool
 perl-rename
 picom
@@ -123,7 +116,6 @@ rsync
 rustup
 shellcheck
 signal-desktop
-socat
 sshpass
 sudo
 sxhkd
