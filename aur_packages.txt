@@ -2,6 +2,8 @@ anki
 bibata-cursor-theme
 brave-bin
 eve-ng-integration
+google-chrome
+librewolf-bin
 libxft-bgra
 makemkv
 paru
