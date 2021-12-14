@@ -3,8 +3,6 @@ adobe-source-han-sans-otc-fonts
 alacritty
 alsa-firmware
 alsa-utils
-arch-audit
-audacity
 autoconf
 automake
 base
@@ -15,7 +13,6 @@ bison
 bitwarden
 bpython
 calc
-celluloid
 chromium
 cmatrix
 cronie
@@ -23,7 +20,6 @@ cups
 dash
 deepin-icon-theme
 dialog
-discord
 dmenu
 dnsmasq
 docker
@@ -117,6 +113,7 @@ qt5ct
 redshift
 reflector
 remmina
+rofi
 rsync
 rustup
 sane-airscan
@@ -147,7 +144,6 @@ traceroute
 ttf-cascadia-code
 ttf-dejavu
 ttf-joypixels
-ufw
 unclutter
 unrar
 unzip
@@ -155,7 +151,6 @@ usbutils
 virt-manager
 virtualbox
 virtualbox-host-modules-arch
-vlc
 wget
 which
 whois
@@ -163,7 +158,6 @@ wireplumber
 wireshark-qt
 xclip
 xf86-video-vesa
-xfce4-screenshooter
 xorg-bdftopcf
 xorg-docs
 xorg-font-util
@@ -207,7 +201,6 @@ xorg-xwayland
 xorg-xwd
 xorg-xwininfo
 xorg-xwud
-youtube-dl
 yt-dlp
 yubikey-manager-qt
 yubioath-desktop
