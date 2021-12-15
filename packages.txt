@@ -31,10 +31,12 @@ edk2-ovmf
 efibootmgr
 exa
 fakeroot
+fd
 figlet
 firefox
 flameshot
 flex
+freerdp
 gcc
 gdb
 gimp
