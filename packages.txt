@@ -3,6 +3,7 @@ adobe-source-han-sans-otc-fonts
 alacritty
 alsa-firmware
 alsa-utils
+arc-gtk-theme
 autoconf
 automake
 base
@@ -32,7 +33,6 @@ efibootmgr
 exa
 fakeroot
 fd
-figlet
 firefox
 flameshot
 flex
@@ -44,7 +44,6 @@ git
 gnu-netcat
 go
 grub
-grub-customizer
 gvim
 hplip
 htop
@@ -60,11 +59,13 @@ linux
 linux-firmware
 linux-headers
 lxappearance
+lxsession
 m4
 make
 materia-gtk-theme
 mdadm
 mediainfo
+mesa-utils
 mlocate
 monero-gui
 mpc
@@ -92,17 +93,16 @@ pacman-contrib
 pam-u2f
 pamixer
 pandoc
+parallel
 patch
 pavucontrol
 pcmanfm
 pdftk
 perl-image-exiftool
 perl-rename
-picom
 pipewire-alsa
 pipewire-pulse
 pkgconf
-polkit-gnome
 pulseaudio-alsa
 pv
 python-eyed3
@@ -115,7 +115,6 @@ qt5ct
 redshift
 reflector
 remmina
-rofi
 rsync
 rustup
 sane-airscan
@@ -140,6 +139,7 @@ texlive-pstricks
 texlive-publishers
 texlive-science
 time
+tldr
 tor
 torbrowser-launcher
 traceroute

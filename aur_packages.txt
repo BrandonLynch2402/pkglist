@@ -1,8 +1,8 @@
-bibata-cursor-theme
+bibata-cursor-theme-bin
 brave-bin
 google-chrome
 librewolf-bin
 libxft-bgra
 makemkv
-paru
+paru-bin
 timeshift
