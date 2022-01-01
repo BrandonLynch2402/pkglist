@@ -1,8 +1,10 @@
 bibata-cursor-theme-bin
 brave-bin
 google-chrome
+kvantum-theme-nordic-git
 librewolf-bin
 libxft-bgra
 makemkv
+nordic-theme
 paru-bin
 timeshift

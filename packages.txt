@@ -3,7 +3,6 @@ adobe-source-han-sans-otc-fonts
 alacritty
 alsa-firmware
 alsa-utils
-arc-gtk-theme
 autoconf
 automake
 base
@@ -52,7 +51,6 @@ i3lock
 ipcalc
 iptables-nft
 jq
-kvantum-theme-materia
 libaacs
 libreoffice-fresh
 linux
@@ -62,7 +60,6 @@ lxappearance
 lxsession
 m4
 make
-materia-gtk-theme
 mdadm
 mediainfo
 mesa-utils
@@ -112,6 +109,7 @@ python-pyxdg
 qbittorrent
 qemu
 qt5ct
+qtile
 redshift
 reflector
 remmina
