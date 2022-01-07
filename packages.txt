@@ -15,6 +15,7 @@ bpython
 calc
 chromium
 cmatrix
+code
 cronie
 cups
 dash
@@ -36,6 +37,7 @@ firefox
 flameshot
 flex
 freerdp
+fzf
 gcc
 gdb
 gimp
