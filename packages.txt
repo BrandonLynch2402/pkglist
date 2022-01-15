@@ -15,7 +15,6 @@ bpython
 calc
 chromium
 cmatrix
-code
 cronie
 cups
 dash
