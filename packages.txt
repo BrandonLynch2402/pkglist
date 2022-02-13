@@ -15,6 +15,7 @@ bpython
 calc
 chromium
 cmatrix
+code
 cronie
 cups
 dash
@@ -32,6 +33,7 @@ efibootmgr
 exa
 fakeroot
 fd
+figlet
 firefox
 flameshot
 flex
