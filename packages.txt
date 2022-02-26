@@ -36,6 +36,7 @@ fd
 figlet
 firefox
 flameshot
+flatpak
 flex
 freerdp
 fzf
