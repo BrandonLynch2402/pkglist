@@ -1,4 +1,3 @@
-abcde
 adobe-source-han-sans-otc-fonts
 alacritty
 alsa-firmware
@@ -57,6 +56,7 @@ iptables-nft
 jq
 libaacs
 libreoffice-fresh
+libva-mesa-driver
 linux
 linux-firmware
 linux-headers
@@ -84,9 +84,6 @@ nodejs
 noto-fonts
 ntfs-3g
 numlockx
-nvidia
-nvidia-settings
-opencl-nvidia
 openvpn
 os-prober
 p7zip
@@ -104,6 +101,7 @@ perl-rename
 pipewire-alsa
 pipewire-pulse
 pkgconf
+podman
 pulseaudio-alsa
 pv
 python-eyed3
@@ -112,6 +110,7 @@ python-pyfiglet
 python-pyxdg
 qbittorrent
 qemu
+qpwgraph
 qt5ct
 qtile
 redshift
@@ -155,12 +154,14 @@ usbutils
 virt-manager
 virtualbox
 virtualbox-host-modules-arch
+vulkan-radeon
 wget
 which
 whois
 wireplumber
 wireshark-qt
 xclip
+xf86-video-amdgpu
 xf86-video-vesa
 xorg-bdftopcf
 xorg-docs
@@ -169,6 +170,7 @@ xorg-fonts-100dpi
 xorg-fonts-75dpi
 xorg-iceauth
 xorg-mkfontscale
+xorg-server
 xorg-server-devel
 xorg-server-xephyr
 xorg-server-xnest
