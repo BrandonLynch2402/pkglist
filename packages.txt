@@ -83,7 +83,6 @@ nodejs
 noto-fonts
 ntfs-3g
 numlockx
-obsidian
 openvpn
 os-prober
 p7zip
