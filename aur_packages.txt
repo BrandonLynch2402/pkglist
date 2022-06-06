@@ -1,12 +1,8 @@
 abcde
 bibata-cursor-theme-bin
-brave-bin
-google-chrome
-konwert
 kvantum-theme-nordic-git
-librewolf-bin
 libxft-bgra
-makemkv
 nordic-theme
 paru-bin
+sonar-scanner
 timeshift

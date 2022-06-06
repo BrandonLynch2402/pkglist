@@ -10,6 +10,7 @@ bind
 binutils
 bison
 bitwarden
+blueman
 bpython
 calc
 chromium
@@ -22,7 +23,6 @@ deepin-icon-theme
 dialog
 dmenu
 dnsmasq
-docker
 dos2unix
 dosfstools
 duf
@@ -55,7 +55,6 @@ ipcalc
 iptables-nft
 jq
 libaacs
-libreoffice-fresh
 libva-mesa-driver
 linux
 linux-firmware
@@ -84,6 +83,7 @@ nodejs
 noto-fonts
 ntfs-3g
 numlockx
+obsidian
 openvpn
 os-prober
 p7zip
@@ -102,6 +102,7 @@ pipewire-alsa
 pipewire-pulse
 pkgconf
 podman
+postgresql
 pulseaudio-alsa
 pv
 python-eyed3
@@ -109,13 +110,14 @@ python-pip
 python-pyfiglet
 python-pyxdg
 qbittorrent
-qemu
+qemu-desktop
 qpwgraph
 qt5ct
 qtile
 redshift
 reflector
 remmina
+rofi
 rsync
 rustup
 sane-airscan
