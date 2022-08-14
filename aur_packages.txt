@@ -1,8 +1,9 @@
 abcde
 bibata-cursor-theme-bin
+google-cloud-sdk
+google-cloud-sdk-gke-gcloud-auth-plugin
 kvantum-theme-nordic-git
 libxft-bgra
 nordic-theme
 paru-bin
-sonar-scanner
 timeshift

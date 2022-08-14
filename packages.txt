@@ -2,6 +2,7 @@ adobe-source-han-sans-otc-fonts
 alacritty
 alsa-firmware
 alsa-utils
+ansible
 autoconf
 automake
 base
@@ -10,7 +11,7 @@ bind
 binutils
 bison
 bitwarden
-blueman
+bmon
 bpython
 calc
 chromium
@@ -23,12 +24,15 @@ deepin-icon-theme
 dialog
 dmenu
 dnsmasq
+docker
 dos2unix
 dosfstools
 duf
 dunst
 edk2-ovmf
 efibootmgr
+electron
+electron19
 exa
 fakeroot
 fd
@@ -37,6 +41,7 @@ firefox
 flameshot
 flatpak
 flex
+fping
 freerdp
 fzf
 gcc
@@ -52,8 +57,11 @@ htop
 hugo
 i3lock
 ipcalc
+iperf3
 iptables-nft
 jq
+jre-openjdk
+kubectl
 libaacs
 libva-mesa-driver
 linux
@@ -81,6 +89,7 @@ nitrogen
 nmap
 nodejs
 noto-fonts
+npm
 ntfs-3g
 numlockx
 openvpn
@@ -101,7 +110,6 @@ pipewire-alsa
 pipewire-pulse
 pkgconf
 podman
-postgresql
 pulseaudio-alsa
 pv
 python-eyed3
@@ -112,7 +120,6 @@ qbittorrent
 qemu-desktop
 qpwgraph
 qt5ct
-qtile
 redshift
 reflector
 remmina
@@ -123,11 +130,13 @@ sane-airscan
 shellcheck
 signal-desktop
 simple-scan
+solidity
 sshpass
 sudo
 sxhkd
 sxiv
 tcpdump
+terraform
 texlive-bibtexextra
 texlive-core
 texlive-fontsextra
@@ -145,6 +154,7 @@ tldr
 tor
 torbrowser-launcher
 traceroute
+trivy
 ttf-cascadia-code
 ttf-dejavu
 ttf-joypixels
@@ -159,6 +169,7 @@ vulkan-radeon
 wget
 which
 whois
+wireguard-tools
 wireplumber
 wireshark-qt
 xclip
