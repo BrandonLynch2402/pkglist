@@ -1,9 +1,13 @@
 abcde
+act
 bibata-cursor-theme-bin
+epson-inkjet-printer-escpr
 google-cloud-sdk
 google-cloud-sdk-gke-gcloud-auth-plugin
+jqp-bin
 kvantum-theme-nordic-git
 libxft-bgra
 nordic-theme
 paru-bin
+python-eyed3
 timeshift
